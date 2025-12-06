@@ -1,0 +1,72 @@
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.exe.config
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.exe
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.pdb
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.AssemblyReference.cache
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmGetUsuarios.resources
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmLogin.resources
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmMenu.resources
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmRegistrar.resources
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.Properties.Resources.resources
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.GenerateResource.cache
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.CoreCompileInputs.cache
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.exe
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.pdb
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.exe.config
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose Liao\source\repos\ConsumirLogin\ConsumirLogin\obj\Debug\Consumir.D05E874E.Up2Date
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.exe.config
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.exe
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.pdb
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmGetUsuarios.resources
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmLogin.resources
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmMenu.resources
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmRegistrar.resources
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\Consumir.D05E874E.Up2Date
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.exe
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.pdb
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.Administrador.resources
+C:\Users\ADMIN\Downloads\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.Cliente.resources
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.exe.config
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.exe
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.pdb
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.AssemblyReference.cache
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\Laboratorio_4_DSIV.Administrar.resources
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.Cliente.resources
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmGetUsuarios.resources
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmLogin.resources
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmMenu.resources
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmRegistrar.resources
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.Properties.Resources.resources
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.GenerateResource.cache
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.CoreCompileInputs.cache
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\Consumir.D05E874E.Up2Date
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.exe
+C:\Users\FISC\Downloads\ConsumirLogin x\ConsumirLogin\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.pdb
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.exe.config
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.exe
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\bin\Debug\ConsumirLogin.pdb
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\Laboratorio_4_DSIV.Administrar.resources
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\Laboratorio_4_DSIV.Carrito.resources
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\Laboratorio_4_DSIV.Cliente.resources
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmGetUsuarios.resources
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmLogin.resources
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmMenu.resources
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.FrmRegistrar.resources
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\Consumir.D05E874E.Up2Date
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.exe
+C:\Users\ADMIN\Desktop\ConsumirLogin 21\ConsumirLogin\ConsumirLogin\obj\Debug\ConsumirLogin.pdb

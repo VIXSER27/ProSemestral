@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|c:\\users\\admin\\source\\repos\\api.farmacia\\api.farmacia\\controllers\\medicamentoscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|solutionrelative:api.farmacia\\controllers\\medicamentoscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|c:\\users\\admin\\source\\repos\\api.farmacia\\api.farmacia\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|solutionrelative:api.farmacia\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|c:\\users\\admin\\source\\repos\\api.farmacia\\api.farmacia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|solutionrelative:api.farmacia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|c:\\users\\admin\\source\\repos\\api.farmacia\\api.farmacia\\models\\medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|solutionrelative:api.farmacia\\models\\medicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|c:\\users\\admin\\source\\repos\\api.farmacia\\api.farmacia\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5145ADA7-C3DC-5364-5CE8-A5992A034EFA}|api.farmacia\\api.farmacia.csproj|solutionrelative:api.farmacia\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Program.cs",
+              "RelativeDocumentMoniker": "api.farmacia\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Program.cs",
+              "RelativeToolTip": "api.farmacia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:09:21.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "api.farmacia\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "api.farmacia\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:59:21.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicamentos.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Models\\Medicamentos.cs",
+              "RelativeDocumentMoniker": "api.farmacia\\Models\\Medicamentos.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Models\\Medicamentos.cs",
+              "RelativeToolTip": "api.farmacia\\Models\\Medicamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:33:23.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicamentosController .cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Controllers\\MedicamentosController .cs",
+              "RelativeDocumentMoniker": "api.farmacia\\Controllers\\MedicamentosController .cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Controllers\\MedicamentosController .cs",
+              "RelativeToolTip": "api.farmacia\\Controllers\\MedicamentosController .cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:32:03.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "api.farmacia\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\api.farmacia\\api.farmacia\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "api.farmacia\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:21:19.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

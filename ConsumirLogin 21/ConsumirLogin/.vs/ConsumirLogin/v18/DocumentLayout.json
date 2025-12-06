@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|c:\\users\\admin\\desktop\\consumirlogin 21\\consumirlogin\\consumirlogin\\itemcarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\itemcarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|c:\\users\\admin\\desktop\\consumirlogin 21\\consumirlogin\\consumirlogin\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|c:\\users\\admin\\desktop\\consumirlogin 21\\consumirlogin\\consumirlogin\\cliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\cliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|c:\\users\\admin\\desktop\\consumirlogin 21\\consumirlogin\\consumirlogin\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\frmgetusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\frmgetusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\frmgetusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\frmgetusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\models\\credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\models\\credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\consumirlogin\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5912A788-165F-4FA3-9993-B22D35363788}|ConsumirLogin\\ConsumirLogin.csproj|solutionrelative:consumirlogin\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Downloads\\ConsumirLogin\\ConsumirLogin\\consumirlogin\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Carrito.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\Carrito.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Carrito.cs",
+              "RelativeToolTip": "ConsumirLogin\\Carrito.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:47:48.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\ItemCarrito.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\ItemCarrito.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\ItemCarrito.cs",
+              "RelativeToolTip": "ConsumirLogin\\ItemCarrito.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:45:03.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Cliente.Designer.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\Cliente.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Cliente.Designer.cs",
+              "RelativeToolTip": "ConsumirLogin\\Cliente.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:05:50.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carrito.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Carrito.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\Carrito.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Carrito.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsumirLogin\\Carrito.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:43:15.217Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Cliente.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Cliente.cs",
+              "RelativeToolTip": "ConsumirLogin\\Cliente.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:14:35.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Cliente.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Cliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsumirLogin\\Cliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:52:10.866Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmLogin.cs",
+              "RelativeToolTip": "ConsumirLogin\\FrmLogin.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmMenu.cs",
+              "RelativeToolTip": "ConsumirLogin\\FrmMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Credenciales.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Models\\Credenciales.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\Models\\Credenciales.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Models\\Credenciales.cs",
+              "RelativeToolTip": "ConsumirLogin\\Models\\Credenciales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:42:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmRegistrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmRegistrar.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\FrmRegistrar.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\FrmRegistrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\FrmRegistrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\Models\\Usuarios.cs",
+              "RelativeToolTip": "ConsumirLogin\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmRegistrar.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\FrmRegistrar.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmRegistrar.cs",
+              "RelativeToolTip": "ConsumirLogin\\FrmRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Administrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\Administrador.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\Administrador.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\Administrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\Administrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:52:36.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmGetUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmGetUsuarios.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\FrmGetUsuarios.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmGetUsuarios.cs",
+              "RelativeToolTip": "ConsumirLogin\\FrmGetUsuarios.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmGetUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmGetUsuarios.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\FrmGetUsuarios.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\FrmGetUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\FrmGetUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsumirLogin\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.561Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\ConsumirLogin 21\\ConsumirLogin\\ConsumirLogin\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "ConsumirLogin\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\FrmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ConsumirLogin\\ConsumirLogin\\ConsumirLogin\\FrmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:54:30.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
